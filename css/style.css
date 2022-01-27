@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+header {
+    line-height: 50px;
+    height: 50px;
+    padding: 20px;
+}
+
+.logo {
+    float: left;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    float: right;
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#banner {
+    width: 350px;
+    float: right;
+    border-radius: 50px;
+}
+
+h1 {
+    margin: auto;
+}
